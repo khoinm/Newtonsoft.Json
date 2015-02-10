@@ -6,3 +6,5 @@
 - [Contributing Guidelines](CONTRIBUTING.md)
 - [License](LICENSE.md)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/json.net)
+
+Add snake_case serialize/deserialize support
