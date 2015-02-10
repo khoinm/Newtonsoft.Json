@@ -198,6 +198,8 @@
     <Compile Include="Serialization\OnErrorAttribute.cs" />
     <Compile Include="Serialization\ReflectionAttributeProvider.cs" />
     <Compile Include="Serialization\ReflectionValueProvider.cs" />
+    <Compile Include="Serialization\SnakeCaseIntegerSeperatedPropertyNamesContractResolver.cs" />
+    <Compile Include="Serialization\SnakeCasePropertyNamesContractResolver.cs" />
     <Compile Include="Serialization\TraceJsonReader.cs" />
     <Compile Include="Serialization\TraceJsonWriter.cs" />
     <Compile Include="StringEscapeHandling.cs" />
